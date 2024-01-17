@@ -149,7 +149,7 @@ In conclusion, adding comments to your code that explain the reasoning behind wh
 
 [Subscribe to be notified of new articles](https://github.com/ryanolsonx/blog/discussions/1)
 
-[All Articles](https://github.com/ryanolsonx/blog/blob/master/README.md#articles)
+[All Articles](https://github.com/ryanolsonx/blog/blob/master/README.md#posts)
 
 ---
 Copyright Ryan Olson 2024-present
