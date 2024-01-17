@@ -8,7 +8,7 @@ My name is Ryan Olson. I've been a software engineer (professionally) since 2011
 
 ## Posts
 
-- TODO
+- [// Why Comments](comments.md)
 
 ## Notifications
 
