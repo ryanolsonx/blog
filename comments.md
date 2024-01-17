@@ -142,3 +142,14 @@ const sendEmailNotifications = (notifications) => {
 
 ## Why Comments
 In conclusion, adding comments to your code that explain the reasoning behind why it's written the way it is can save future developers time, help them understand the code better, and prevent mistakes from being made. It can also make it easier to maintain and update the codebase, especially in cases where external factors or business requirements play a role. By taking the time to write clear and concise "why" comments, you can make your code more readable, maintainable, and ultimately more valuable.
+
+---
+
+[Comments](https://github.com/ryanolsonx/ryanolsonx/discussions/2)
+
+[Subscribe to be notified of new articles](https://github.com/ryanolsonx/blog/discussions/1)
+
+[All Articles](https://github.com/ryanolsonx/blog/blob/master/README.md#articles)
+
+---
+Copyright Ryan Olson 2024-present
