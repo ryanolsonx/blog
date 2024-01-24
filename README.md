@@ -1,12 +1,12 @@
 # Software Development Blog
 
-Posts relating to my experiences as a software engineer. All thoughts and opinions are my own.
+Articles relating to my experiences as a software engineer. All thoughts and opinions are my own.
 
 ## About Me
 
-My name is Ryan Olson. I've been a software engineer (professionally) since 2011. I work at Aumni, a JP Morgan company. I focus on frontend development on a frontend platform team.
+My name is Ryan Olson. I've been a software engineer (professionally) since 2011. I work at Aumni, a JP Morgan company. I focus on frontend development on the Aumni frontend platform team.
 
-## Posts
+## Articles
 
 - [// Why Comments](comments.md)
 
