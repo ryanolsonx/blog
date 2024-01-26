@@ -8,7 +8,8 @@ My name is Ryan Olson. I've been a software engineer (professionally) since 2011
 
 ## Articles
 
-- [// Why Comments](comments.md)
+- [Git Commit Messages](commit-msg.md) - Jan 2024
+- [// Why Comments](comments.md) - Nov 2022
 
 ## Notifications
 
