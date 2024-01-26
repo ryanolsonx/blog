@@ -6,26 +6,28 @@ And why should I care?
 
 ## A Good Commit Message
 
-> Capitalized short summary (50 chars max)
->
-> More details about what your git commit accomplishes (72 chars wrap).
-> In Git, this is treated as the description of your commit message. It's
-> useful to provide more details than your short summary here.
->
-> Something even more useful is why you made this commit. Why does your
-> change fix the bug? What steps did you follow to reproduce it? What is
-> useful context that can't be gleaned from your code?
->
-> You can even use bullet points:
->
-> - Bullet points are great
->
-> - You start them with a hyphen or bullet point
->
-> - Use a hanging indent
->
-> It's often helpful to provide a link to JIRA or your issue tracker:
-> JIRA: https://aumni.atlassian.net/browse/DEV-1234
+```
+Capitalized short summary (50 chars max)
+
+More details about what your git commit accomplishes (72 chars wrap).
+In Git, this is treated as the description of your commit message. It's
+useful to provide more details than your short summary here.
+
+Something even more useful is why you made this commit. Why does your
+change fix the bug? What steps did you follow to reproduce it? What is
+useful context that can't be gleaned from your code?
+
+You can even use bullet points:
+
+- Bullet points are great
+
+- You start them with a hyphen or bullet point
+
+- Use a hanging indent
+
+It's often helpful to provide a link to JIRA or your issue tracker:
+JIRA: https://aumni.atlassian.net/browse/DEV-1234
+```
 
 In this sample commit message, there's A LOT of information that is included past the simple `git commit -m "Capitalized short summary"`. It has paragraphs that more explain the what, it digs into the why, and provides more context.
 
